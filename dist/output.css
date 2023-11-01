@@ -743,6 +743,10 @@ video {
   height: 2.25rem;
 }
 
+.h-auto {
+  height: auto;
+}
+
 .w-12 {
   width: 3rem;
 }
@@ -757,6 +761,10 @@ video {
 
 .w-9 {
   width: 2.25rem;
+}
+
+.w-auto {
+  width: auto;
 }
 
 .w-full {
@@ -1190,7 +1198,12 @@ video {
 /* Todo: Custom Class */
 
 body{
-  font-family: 'Inter', sans-serif;
+  /* font-family: 'Inter', sans-serif; */
+  /* font-family: 'DotGothic16', sans-serif; DotGothic16 */
+  font-family: 'VT323', monospace;
+  /* VT323 */
+  /* font-family: 'Pixelify Sans', sans-serif; pixelify */
+  /* font-family: 'Silkscreen', sans-serif; Silkscreen*/
 }
 
 /* membuat navbar menjadi fixed ketika di scroll */

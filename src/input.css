@@ -5,7 +5,11 @@
 /* Todo: Custom Class */
 
 body{
-    font-family: 'Inter', sans-serif;
+    /* font-family: 'Inter', sans-serif; */
+    /* font-family: 'DotGothic16', sans-serif; DotGothic16 */
+    font-family: 'VT323', monospace; /* VT323 */
+    /* font-family: 'Pixelify Sans', sans-serif; pixelify */
+    /* font-family: 'Silkscreen', sans-serif; Silkscreen*/
 }
 
 /* membuat navbar menjadi fixed ketika di scroll */
